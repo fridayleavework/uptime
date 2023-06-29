@@ -7,7 +7,7 @@ sites:
     url: https://www.naver.com
   - name: dart
     url: https://dart.fss.or.kr/
-  - name: n
+  - name: n2
     url: http://$SITE
         
 status-website:
