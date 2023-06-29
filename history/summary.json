@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 773,
-    "timeWeek": 773,
-    "timeMonth": 773,
-    "timeYear": 773,
+    "time": 809,
+    "timeDay": 809,
+    "timeWeek": 809,
+    "timeMonth": 809,
+    "timeYear": 809,
     "dailyMinutesDown": {}
   },
   {
     "name": "daum",
-    "url": "$SECRET_SITE",
+    "url": "${{ secrets.$SECRET_SITE }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "daum",
     "status": "down",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-28": 27
+      "2023-06-29": 17,
+      "2023-06-28": 28
     }
   }
 ]
