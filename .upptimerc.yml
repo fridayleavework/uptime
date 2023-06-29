@@ -7,8 +7,8 @@ sites:
     url: https://www.naver.com
   - name: dart
     url: https://dart.fss.or.kr/
-  - name: n2
-    url: $SITE
+  - name: hidden_site
+    url: $SECRET_SITE
         
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
