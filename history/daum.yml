@@ -1,7 +1,7 @@
-url: $SECRET_SITE
+url: ${{ secrets.$SECRET_SITE }}
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2023-06-28T23:58:04.055Z
+lastUpdated: 2023-06-29T00:16:55.244Z
 startTime: Wed Jun 28 2023 23:31:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
