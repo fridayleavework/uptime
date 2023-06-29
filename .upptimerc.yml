@@ -5,8 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: naver
     url: https://www.naver.com
-  - name: daum
-    url: $SECRET_SITE
+  - name: dart
+    url: https://dart.fss.or.kr/
     
     
 status-website:
