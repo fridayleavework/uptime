@@ -1,6 +1,7 @@
 # Change these first
 owner: fridayleavework # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+user-agent: fridayleavework
 
 sites:
   - name: naver
@@ -9,8 +10,6 @@ sites:
     url: https://dart.fss.or.kr/
   - name: S
     url: $SECRET_SITE
-    user-agent:
-      - Mozilla/5.0
     #expectedStatusCodes:
     #  - 200
     #  - 201
