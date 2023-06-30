@@ -9,6 +9,8 @@ sites:
     url: https://dart.fss.or.kr/
   - name: SECRET_SITE_SECRET_S
     url: $SECRET_SITE
+    headers:
+      - "User-Agent: <name> uptime"
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
