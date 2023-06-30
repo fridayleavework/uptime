@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s",
     "status": "up",
-    "uptime": "41.44%",
-    "uptimeDay": "41.44%",
-    "uptimeWeek": "41.44%",
-    "uptimeMonth": "41.44%",
-    "uptimeYear": "41.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2629,
     "timeDay": 2629,
     "timeWeek": 2629,
     "timeMonth": 2629,
     "timeYear": 2629,
-    "dailyMinutesDown": {
-      "2023-06-30": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
