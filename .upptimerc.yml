@@ -7,7 +7,7 @@ sites:
     url: https://www.naver.com
   - name: dart
     url: https://dart.fss.or.kr/
-  - name: SECRET
+  - name: SECRET_
     url: $SECRET_SITE
     
 status-website:
