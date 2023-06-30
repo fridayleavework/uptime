@@ -1,6 +1,7 @@
 # Change these first
 owner: fridayleavework # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+user-agent: koj-co
 
 sites:
   - name: naver
@@ -9,9 +10,7 @@ sites:
     url: https://dart.fss.or.kr/
   - name: SECRET_SITE_SECRET_S
     url: $SECRET_SITE
-    headers:
-      - "User-Agent: <name> uptime"
-    
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
