@@ -9,11 +9,13 @@ sites:
     url: https://dart.fss.or.kr/
   - name: S
     url: $SECRET_SITE
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 403
+    user-agent:
+      - Mozilla/5.0
+    #expectedStatusCodes:
+    #  - 200
+    #  - 201
+    #  - 404
+    #  - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
