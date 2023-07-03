@@ -16,7 +16,7 @@ sites:
       - 404
       - 403
   - name: A
-    url: $SECRET_SITE2
+    url: $AECRET_SITE
     expectedStatusCodes:
       - 200
       #- 201
