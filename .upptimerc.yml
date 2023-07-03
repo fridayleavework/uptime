@@ -14,7 +14,7 @@ sites:
       - 200
       - 201
       - 404
-      - 403
+      #- 403
   - name: A
     url: $AECRET_SITE
     expectedStatusCodes:
