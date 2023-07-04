@@ -22,6 +22,13 @@ sites:
       #- 201
       #- 404
       #- 403
+  - name: J
+    url: $JECRET_SITE
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 403
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
