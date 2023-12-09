@@ -1,7 +1,7 @@
 url: $AECRET_SITE
-status: down
-code: 502
-responseTime: 22403
-lastUpdated: 2023-12-09T03:46:22.353Z
+status: up
+code: 200
+responseTime: 9896
+lastUpdated: 2023-12-09T03:58:36.775Z
 startTime: 2023-07-03T05:01:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
